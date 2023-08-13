@@ -1,0 +1,12 @@
+{
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/_app": "pages/_app.js",
+  "/api/conectionDB/connection": "pages/api/conectionDB/connection.js",
+  "/api/employee/Employees": "pages/api/employee/Employees.js",
+  "/api/employee/[id]": "pages/api/employee/[id].js",
+  "/api/hello": "pages/api/hello.js",
+  "/api/employee": "pages/api/employee.js",
+  "/": "pages/index.html",
+  "/404": "pages/404.html"
+}
